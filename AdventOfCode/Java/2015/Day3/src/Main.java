@@ -5,7 +5,6 @@ import java.util.HashMap;
 
 public class Main {
     static String linea;
-
     static HashMap<String, Integer> registroCasas = new HashMap<String, Integer>();//<Coordenada, Contador de Regalos>
 
 
